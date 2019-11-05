@@ -1,3 +1,21 @@
+.DS_Store
+.*.swp
+
+### Eclipse ###
+.settings
+.externalToolBuilders
+*.project
+*.classpath
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject
+
 # Compiled class file
 *.class
 
